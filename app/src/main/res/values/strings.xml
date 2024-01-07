@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">No Swipe to Kill</string>
+    <string name="xposed_description">Disable MIUI swipe-to-kill</string>
+</resources>
