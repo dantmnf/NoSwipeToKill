@@ -34,6 +34,6 @@ android {
 
 dependencies {
 
-    implementation(project(":hidden-api"))
+    compileOnly(project(":hidden-api"))
     compileOnly(libs.xposed.bridge)
 }
